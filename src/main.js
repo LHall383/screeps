@@ -59,8 +59,6 @@ require('role.controllerAttacker')();
 require('role.powerHauler')();
 
 module.exports.loop = function () {
-    //another sync test here.
-
     // console.log('<font style="color:Crimson"> Red Text! </font>');
     // \uD83E\uDD8D
     // Game.rooms.E42N7.addToSpawnQueue({mem: {role: 'healerRanger', flagName: 'get_double_fukt'}, body: Game.rooms.E42N7.generateBody([TOUGH, MOVE, MOVE, HEAL], 12), priority: 300})
